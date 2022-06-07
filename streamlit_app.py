@@ -15,4 +15,5 @@ streamlit.text('A dash of love to make it nice')
 streamlit.text('And you ve got...')
 streamlit.text('🥣 🥗 🐔 🥑🍞')
 
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
                
